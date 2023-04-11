@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2023-04-11T05:13:01.992989Z",
-  "chain_id": "fury",
+  "genesis_time": "2023-04-11T04:41:40.221333876Z",
+  "chain_id": "t-fury-1",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -33,63 +33,7 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "did:fury:17keqejk7w56w400fq4ms7waysehj65cmuvf029",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "did:fury:1gm9qzt4nqt06cl4g5wgewtdcxargm6lxsxx254",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "did:fury:1v7nct9hs7c3g5rwg3uyhrlx2925c89rrej9q68",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "did:fury:15gl5n23x3362sjljvrv6avq8kne6t09um8qq4y",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "did:fury:14sf2hqfjxnaqwvn76ss6tt5q2ulu526ggkay5t",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "did:fury:12aejph44lwlavkadke3ghrzw6h8lpglsyk70tj",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "did:fury:1u3gw8cdum270466q5a8n6dkurzes8trn6prsrp",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "did:fury:1t6h7s2dhfleau5axr6m4grvmsthsk94a4cgc3t",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "did:fury:18q8f75ftn2kwevg4ymlpkkelrxgnu68phhs4pz",
+          "address": "did:fury:16ar6lu2xtkuzj43eeqdmjdzafy4f7vnzu8re7y",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -106,83 +50,11 @@
       },
       "balances": [
         {
-          "address": "did:fury:18q8f75ftn2kwevg4ymlpkkelrxgnu68phhs4pz",
+          "address": "did:fury:16ar6lu2xtkuzj43eeqdmjdzafy4f7vnzu8re7y",
           "coins": [
             {
               "denom": "uxfury",
-              "amount": "1000000000000"
-            }
-          ]
-        },
-        {
-          "address": "did:fury:1gm9qzt4nqt06cl4g5wgewtdcxargm6lxsxx254",
-          "coins": [
-            {
-              "denom": "uxfury",
-              "amount": "9000000000000"
-            }
-          ]
-        },
-        {
-          "address": "did:fury:12aejph44lwlavkadke3ghrzw6h8lpglsyk70tj",
-          "coins": [
-            {
-              "denom": "uxfury",
-              "amount": "1000000000000"
-            }
-          ]
-        },
-        {
-          "address": "did:fury:1t6h7s2dhfleau5axr6m4grvmsthsk94a4cgc3t",
-          "coins": [
-            {
-              "denom": "uxfury",
-              "amount": "9000000000000"
-            }
-          ]
-        },
-        {
-          "address": "did:fury:1v7nct9hs7c3g5rwg3uyhrlx2925c89rrej9q68",
-          "coins": [
-            {
-              "denom": "uxfury",
-              "amount": "1000000000000"
-            }
-          ]
-        },
-        {
-          "address": "did:fury:15gl5n23x3362sjljvrv6avq8kne6t09um8qq4y",
-          "coins": [
-            {
-              "denom": "uxfury",
-              "amount": "9000000000000"
-            }
-          ]
-        },
-        {
-          "address": "did:fury:14sf2hqfjxnaqwvn76ss6tt5q2ulu526ggkay5t",
-          "coins": [
-            {
-              "denom": "uxfury",
-              "amount": "9000000000000"
-            }
-          ]
-        },
-        {
-          "address": "did:fury:1u3gw8cdum270466q5a8n6dkurzes8trn6prsrp",
-          "coins": [
-            {
-              "denom": "uxfury",
-              "amount": "9000000000000"
-            }
-          ]
-        },
-        {
-          "address": "did:fury:17keqejk7w56w400fq4ms7waysehj65cmuvf029",
-          "coins": [
-            {
-              "denom": "uxfury",
-              "amount": "9000000000000"
+              "amount": "100000000000"
             }
           ]
         }
@@ -190,22 +62,22 @@
       "supply": [
         {
           "denom": "uxfury",
-          "amount": "57000000000000"
+          "amount": "100000000000"
         }
       ],
       "denom_metadata": []
     },
     "bet": {
-      "active_bet_list": [],
-      "bet_list": [],
       "params": {
         "batch_settlement_count": 1000
       },
+      "bet_list": [],
+      "active_bet_list": [],
       "settled_bet_list": [],
+      "uid2id_list": [],
       "stats": {
         "count": "0"
-      },
-      "uid2id_list": []
+      }
     },
     "capability": {
       "index": "1",
@@ -213,36 +85,36 @@
     },
     "crisis": {
       "constant_fee": {
-        "amount": "1000",
-        "denom": "uxfury"
+        "denom": "uxfury",
+        "amount": "1000"
       }
     },
     "distribution": {
-      "delegator_starting_infos": [],
-      "delegator_withdraw_infos": [],
+      "params": {
+        "community_tax": "0.020000000000000000",
+        "base_proposer_reward": "0.010000000000000000",
+        "bonus_proposer_reward": "0.040000000000000000",
+        "withdraw_addr_enabled": true
+      },
       "fee_pool": {
         "community_pool": []
       },
-      "outstanding_rewards": [],
-      "params": {
-        "base_proposer_reward": "0.010000000000000000",
-        "bonus_proposer_reward": "0.040000000000000000",
-        "community_tax": "0.020000000000000000",
-        "withdraw_addr_enabled": true
-      },
+      "delegator_withdraw_infos": [],
       "previous_proposer": "",
+      "outstanding_rewards": [],
       "validator_accumulated_commissions": [],
-      "validator_current_rewards": [],
       "validator_historical_rewards": [],
+      "validator_current_rewards": [],
+      "delegator_starting_infos": [],
       "validator_slash_events": []
     },
     "dvm": {
-      "active_pubkeys_change_proposals": [],
-      "finished_pubkeys_change_proposals": [],
+      "params": {},
       "key_vault": {
         "public_keys": []
       },
-      "params": {},
+      "active_pubkeys_change_proposals": [],
+      "finished_pubkeys_change_proposals": [],
       "proposal_stats": {
         "pubkeys_change_count": "0"
       }
@@ -261,7 +133,7 @@
               {
                 "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
                 "description": {
-                  "moniker": "mynode",
+                  "moniker": "fury-testnet",
                   "identity": "",
                   "website": "",
                   "security_contact": "",
@@ -273,19 +145,19 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "did:fury:17keqejk7w56w400fq4ms7waysehj65cmuvf029",
-                "validator_address": "did:fury:valoper17keqejk7w56w400fq4ms7waysehj65cm4g5k4w",
+                "delegator_address": "did:fury:16ar6lu2xtkuzj43eeqdmjdzafy4f7vnzu8re7y",
+                "validator_address": "did:fury:valoper16ar6lu2xtkuzj43eeqdmjdzafy4f7vnz4r7qp0",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "I2k4r/ewc2iZCD0tTJStQ3xyY6F5DgBnkLTQldndOzI="
+                  "key": "ky1UaTS899+L0Na+fLcCwKA56V2rySLjLhyFtkw3qPo="
                 },
                 "value": {
                   "denom": "uxfury",
-                  "amount": "1000000000000"
+                  "amount": "10000000000"
                 }
               }
             ],
-            "memo": "e8c859f09510fe679e8a60b95930e3c3827f179d@192.168.0.109:26656",
+            "memo": "dc668349f784dc18e30f9645b2e51bd3bed27e92@10.170.0.2:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -295,7 +167,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "AnBSannnHc21nL+i1rBzsk3APXoXWKlEM53vRCQyvhbR"
+                  "key": "AqxHNun9a1iyY99/rrNAeL8KEI1EK70q5YBEtnlOajHc"
                 },
                 "mode_info": {
                   "single": {
@@ -313,105 +185,104 @@
             }
           },
           "signatures": [
-            "64+C6QCO7Ld97EQmzpHADEI0fQdmpYq3tGn8MmkdmwV4tWXRgRTcrw1C5po1KLDVTmoowEgwEl+1pQotsyPH/w=="
+            "jWf1rMSCSyeVDeELD3FLHGpdYQgmlPw3issMF57wknYgMTn5+m7tCCpLgeQvvE08vH5ArlcRNA40QhcojQ0mew=="
           ]
         }
       ]
     },
     "gov": {
+      "starting_proposal_id": "1",
+      "deposits": [],
+      "votes": [],
+      "proposals": [],
       "deposit_params": {
-        "max_deposit_period": "172800s",
         "min_deposit": [
           {
-            "amount": "10000000",
-            "denom": "uxfury"
+            "denom": "uxfury",
+            "amount": "10000000"
           }
-        ]
+        ],
+        "max_deposit_period": "172800s"
       },
-      "deposits": [],
-      "proposals": [],
-      "starting_proposal_id": "1",
+      "voting_params": {
+        "voting_period": "172800s"
+      },
       "tally_params": {
         "quorum": "0.334000000000000000",
         "threshold": "0.500000000000000000",
         "veto_threshold": "0.334000000000000000"
-      },
-      "votes": [],
-      "voting_params": {
-        "voting_period": "172800s"
       }
     },
     "house": {
-      "deposit_list": [],
       "params": {
-        "house_participation_fee": "0.100000000000000000",
-        "min_deposit": "100"
+        "min_deposit": "100",
+        "house_participation_fee": "0.100000000000000000"
       },
+      "deposit_list": [],
       "withdrawal_list": []
     },
     "ibc": {
-      "channel_genesis": {
-        "ack_sequences": [],
-        "acknowledgements": [],
-        "channels": [],
-        "commitments": [],
-        "next_channel_sequence": "0",
-        "receipts": [],
-        "recv_sequences": [],
-        "send_sequences": []
-      },
       "client_genesis": {
         "clients": [],
         "clients_consensus": [],
         "clients_metadata": [],
-        "create_localhost": false,
-        "next_client_sequence": "0",
         "params": {
           "allowed_clients": [
             "06-solomachine",
             "07-tendermint"
           ]
-        }
+        },
+        "create_localhost": false,
+        "next_client_sequence": "0"
       },
       "connection_genesis": {
-        "client_connection_paths": [],
         "connections": [],
+        "client_connection_paths": [],
         "next_connection_sequence": "0",
         "params": {
           "max_expected_time_per_block": "30000000000"
         }
+      },
+      "channel_genesis": {
+        "channels": [],
+        "acknowledgements": [],
+        "commitments": [],
+        "receipts": [],
+        "send_sequences": [],
+        "recv_sequences": [],
+        "ack_sequences": [],
+        "next_channel_sequence": "0"
       }
     },
     "interchainaccounts": {
       "controller_genesis_state": {
         "active_channels": [],
         "interchain_accounts": [],
+        "ports": [],
         "params": {
           "controller_enabled": true
-        },
-        "ports": []
+        }
       },
       "host_genesis_state": {
         "active_channels": [],
         "interchain_accounts": [],
+        "port": "icahost",
         "params": {
-          "allow_messages": [],
-          "host_enabled": true
-        },
-        "port": "icahost"
+          "host_enabled": true,
+          "allow_messages": []
+        }
       }
     },
     "mint": {
       "minter": {
         "inflation": "0.000000000000000000",
-        "phase_provisions": "0.000000000000000000",
         "phase_step": 0,
+        "phase_provisions": "0.000000000000000000",
         "truncated_tokens": "0.000000000000000000"
       },
       "params": {
-        "blocks_per_year": "6311520",
-        "exclude_amount": "0",
         "mint_denom": "uxfury",
+        "blocks_per_year": "6311520",
         "phases": [
           {
             "inflation": "0.229787234042553191",
@@ -453,21 +324,22 @@
             "inflation": "0.003903708523096942",
             "year_coefficient": "0.500000000000000000"
           }
-        ]
+        ],
+        "exclude_amount": "0"
       }
     },
     "orderbook": {
-      "book_exposure_list": [],
+      "params": {
+        "max_book_participations": "100",
+        "batch_settlement_count": "100"
+      },
       "book_list": [],
       "book_participation_list": [],
-      "historical_participation_exposure_list": [],
-      "params": {
-        "batch_settlement_count": "100",
-        "max_book_participations": "100"
-      },
-      "participation_bet_pair_exposure_list": [],
-      "participation_exposure_by_index_list": [],
+      "book_exposure_list": [],
       "participation_exposure_list": [],
+      "participation_exposure_by_index_list": [],
+      "historical_participation_exposure_list": [],
+      "participation_bet_pair_exposure_list": [],
       "payout_lock": [],
       "stats": {
         "resolved_unsettled": []
@@ -475,21 +347,21 @@
     },
     "params": null,
     "slashing": {
-      "missed_blocks": [],
       "params": {
-        "downtime_jail_duration": "600s",
-        "min_signed_per_window": "0.500000000000000000",
         "signed_blocks_window": "100",
+        "min_signed_per_window": "0.500000000000000000",
+        "downtime_jail_duration": "600s",
         "slash_fraction_double_sign": "0.050000000000000000",
         "slash_fraction_downtime": "0.010000000000000000"
       },
-      "signing_infos": []
+      "signing_infos": [],
+      "missed_blocks": []
     },
     "sportevent": {
       "params": {
-        "event_max_sr_contribution": "10000000",
         "event_min_bet_amount": "1000000",
-        "event_min_bet_fee": "0"
+        "event_min_bet_fee": "0",
+        "event_max_sr_contribution": "10000000"
       },
       "sport_event_list": [],
       "stats": {
@@ -497,39 +369,39 @@
       }
     },
     "staking": {
-      "delegations": [],
-      "exported": false,
+      "params": {
+        "unbonding_time": "1814400s",
+        "max_validators": 100,
+        "max_entries": 7,
+        "historical_entries": 10000,
+        "bond_denom": "uxfury"
+      },
       "last_total_power": "0",
       "last_validator_powers": [],
-      "params": {
-        "bond_denom": "uxfury",
-        "historical_entries": 10000,
-        "max_entries": 7,
-        "max_validators": 100,
-        "unbonding_time": "1814400s"
-      },
-      "redelegations": [],
+      "validators": [],
+      "delegations": [],
       "unbonding_delegations": [],
-      "validators": []
+      "redelegations": [],
+      "exported": false
     },
     "strategicreserve": {
-      "params": {
-        "committee_members": []
-      },
       "reserver": {
         "sr_pool": {
           "locked_amount": "0",
           "unlocked_amount": "150000000000000"
         }
+      },
+      "params": {
+        "committee_members": []
       }
     },
     "transfer": {
+      "port_id": "transfer",
       "denom_traces": [],
       "params": {
-        "receive_enabled": true,
-        "send_enabled": true
-      },
-      "port_id": "transfer"
+        "send_enabled": true,
+        "receive_enabled": true
+      }
     },
     "upgrade": {},
     "vesting": {}
