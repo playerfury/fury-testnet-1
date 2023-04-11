@@ -1,6 +1,6 @@
 {
   "genesis_time": "2023-04-11T05:13:01.992989Z",
-  "chain_id": "fury",
+  "chain_id": "t-fury-1",
   "initial_height": "1",
   "consensus_params": {
     "block": {
